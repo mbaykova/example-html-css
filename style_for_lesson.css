@@ -1,0 +1,23 @@
+ul li {
+  color: red;
+}
+ol li {
+  color: green;
+}
+
+h1, h3 {
+     color: green; 
+}
+
+li.c1 {
+color: blue; 
+}
+
+th {
+background: green; 
+}
+
+tr:nth-child(2n+1) {
+background: blue	; 
+}
+
